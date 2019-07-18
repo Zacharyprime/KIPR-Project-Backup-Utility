@@ -39,6 +39,7 @@ This package comes with 3 tools for backing up your programs:
 Now your programs are saved!
 
 **Clarification:**
+
 -README is basically a description of what the project is. What you are reading right now is a README.txt file!
 
 -Github has much more than just being a storage unit for programs! It can do things like keep track of all your past changes so you can revert to an older copy of your code, or keep track of your notes so you know what you changed each time you update your code.
