@@ -13,7 +13,7 @@ This package comes with 3 tools for backing up your programs:
 1. Copy the contents of "Wallaby2USB-Backup-Tool.c" to a project on your Wallaby.
 2. Plug in ONE flash drive and leave the other USB port empty.
 3. Run the Program _from the Wallaby_
-4. Wait for the program to say "DONE!" and now the USB flash drive contains all your programs.
+4. Wait for the program to say "DONE!" and now the USB flash drive contains all your projects.
 
 **Wallaby 2 Windows:**
 1. Download the program "Wallaby2Windows-Backup-Tool.bat" and place it in your desktop.
