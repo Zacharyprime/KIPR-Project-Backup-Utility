@@ -47,5 +47,9 @@ Now your programs are saved!
 
 -Github has much more than just being a storage unit for programs! It can do things like keep track of all your past changes so you can revert to an older copy of your code, or keep track of your notes so you know what you changed each time you update your code.
 
+-Github can benefit you/your students when they join the workforce. A good github profile can set you apart from other canidates in a job hunt and improve your odds with employers. Starting students on their "code portfolio" now can help them in the future when they are searching for jobs in S.T.E.M.
+
+-Here is a link to a helpful video on why github is important to learn as a programmer (engineer, scientist, etc).
+https://www.youtube.com/watch?v=w3jLJU7DT5E
 
 **If you have any problems feel free to email me at zsasser@kipr.org or support@kipr.org for direct assistance.**
