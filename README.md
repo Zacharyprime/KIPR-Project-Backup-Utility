@@ -28,6 +28,9 @@ This package comes with 3 tools for backing up your programs:
 5. Type "ls" and check to make sure "Wallaby2Unix-Backup-Tool.sh" is listed.
 6. type "sh Wallaby2Unix-Backup-Tool.sh". If that fails try "sudo sh Wallaby2Unix-Backup-Tool.sh" and enter your password.
 
+**Chromebooks and other platforms**
+Chromebooks and other platforms not listed are not yet supported. To my current understanding there is not an easy way to implement this into a Chromebook. For now, just use the **Wallaby 2 USB** option listed above (it's probably the best option anyway).
+
 **Recommended Instructions:**
 1. Create a github account or log in if you have one.
 2. Find the button to "create a new repository" (might be a book icon and/or a plus sign)
