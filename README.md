@@ -12,5 +12,5 @@ How to Run (MacOS/Linux):
 2. Go to the folder you saved the .sh in by typing the following:
 cd ~/Downloads
 
-3.type "sh Wallaby-Backup-Tool.sh"
+3. type "sh Wallaby-Backup-Tool.sh"
 if that fails try "sudo sh Wallaby-Backup-Tool.sh"
