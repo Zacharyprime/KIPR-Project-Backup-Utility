@@ -16,6 +16,7 @@ This package comes with 3 tools for backing up your programs:
 4. Wait for the program to say "DONE!" and now the USB flash drive contains all your projects.
 
 **Wallaby 2 Windows:**
+
 *NOTE: This will not work if SCP is not installed on your machine.*
 1. Download the program "Wallaby2Windows-Backup-Tool.bat" and place it in your desktop.
 2. If it is in a .zip file, right click and click "Extract Here"
