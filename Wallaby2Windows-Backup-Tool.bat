@@ -35,5 +35,4 @@ rmdir include /S /Q
 
 
 del *.json
-del tester.c
 echo FINISHED.
