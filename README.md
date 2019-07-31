@@ -2,7 +2,7 @@
 Created by: Zachary Sasser
 
 **Description:**
-This is a list of programs that can help you backup your programs on your Wallaby so that you will not lose your program in the event of a Wallaby malfunction or even just messing up your code. All of these options saves all projects on the Wallaby to an external storage for safe keeping.
+This is a list of programs that can help you backup your programs on your KIPR Controller so that you will not lose your program in the event of a Wallaby malfunction or even just messing up your code. All of these options saves all projects on the Wallaby to an external storage for safe keeping.
 
 This package comes with 3 tools for backing up your programs:
 1. A program that runs on the Wallaby and moves all your projects from the **Wallaby to a USB Flash Drive**.
