@@ -17,7 +17,7 @@ int backup()
     
     system("sudo umount /dev/sd??");
     
-    //console_clear();
+    console_clear();
     printf("\n \nAll projects backed up on flash drive! \n");
 
     return 1;
@@ -32,7 +32,7 @@ int restore(){
 	
     system("sudo umount /dev/sd??");
     
-    //console_clear();
+    console_clear();
 	printf("\n \nAll programs restored with USB flash drive \n \n");
     
 	return 1;
