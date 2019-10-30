@@ -9,7 +9,7 @@ This package comes with 3 tools for backing up your programs:
 2. A program for Windows that moves all your projects from the **Wallaby to your PC**
 3. A program for MacOSX and Linux that moves your projects from the **Wallaby to your Mac/Linux Machine**
 
-**Wallaby 2 USB (easiest):**
+**Wallaby/Wombat 2 USB (easiest):**
 1. Copy the contents of "Wallaby2USB-Backup-Tool.c" to a project on your Wallaby.
 2. Plug in ONE flash drive and leave the other USB port empty.
 3. Run the Program _from the Wallaby_ and follow it's instructions.
