@@ -7,7 +7,7 @@ by: Zachary Sasser
 int backup()
 {
     printf("Mounting USB Drive... \n");
-    system("mount /dev/sd?? /mnt");
+    system("sudo mount /dev/sd?? /mnt");
     
     printf("Copying Files to USB Drive... \n");
     system("cp -r ~/Documents/KISS/* /mnt");
@@ -25,7 +25,7 @@ int backup()
 
 int restore(){
 	printf("Mounting USB drive... \n");
-	system("mount /dev/sd?? /mnt");
+	system("sudo mount /dev/sd?? /mnt");
 	
 	printf("Moving projects from flash drive to the Controller... \n");
 	system("cp -r /mnt/* ~/Documents/KISS");
@@ -40,7 +40,7 @@ int restore(){
 
 int clearDrive(){
     printf("Clearing flash drive... \n");  
-    system("umount /dev/sd??");
+    system("sudo umount /dev/sd??");
     system("sudo mkfs.vfat -F 32 /dev/sd??");
     
     printf("\nFlash drive is now cleared. \n \n");
