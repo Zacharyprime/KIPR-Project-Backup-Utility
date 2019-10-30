@@ -15,7 +15,7 @@ int backup()
     printf("Removing unwanted files... \n");
     system("cd /mnt && rm *.json && rm -r bin && rm -r data && rm -r lib && rm -r src && rm -r include"); 
     
-    system("sudo unmount /dev/sd??");
+    system("sudo umount /dev/sd??");
     
     console_clear();
     printf("\n \nAll projects backed up on flash drive! \n");
@@ -30,7 +30,7 @@ int restore(){
 	printf("Moving projects from flash drive to the Controller... \n");
 	system("cp -r /mnt/* ~/Documents/KISS");
 	
-    system("sudo unmount /dev/sd??");
+    system("sudo umount /dev/sd??");
     
     console_clear();
 	printf("\n \nAll programs restored with USB flash drive \n \n");
